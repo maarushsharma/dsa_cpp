@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "PROGRAM.C": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}
